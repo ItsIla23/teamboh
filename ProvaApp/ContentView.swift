@@ -7,7 +7,7 @@
 
 import SwiftUI
 import SwiftData
-//gvyfvyf
+//ilaria tvb
 struct ContentView: View {
     @Environment(\.modelContext) private var modelContext
     @Query private var items: [Item]
